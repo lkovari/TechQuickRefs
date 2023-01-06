@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktech_quick_refs"]=self["webpackChunktech_quick_refs"]||[]).push([[443],{2355:function(e,u,c){c.r(u),c.d(u,{default:function(){return o}});var n=c(3396);const t={class:"about"},s=(0,n._)("h1",null,"This is an about page of the TechQuickRefs",-1),r=[s];function a(e,u){return(0,n.wg)(),(0,n.iD)("div",t,r)}var i=c(89);const f={},h=(0,i.Z)(f,[["render",a]]);var o=h}}]);
+//# sourceMappingURL=about.0f35a165.js.map
